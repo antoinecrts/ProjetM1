@@ -1,4 +1,4 @@
-# Projet Master 1 ISICG Léo Lacoste, Olivier Dupont, Antoine Courtens, Quentin Fabriès
+# Projet de Master 1 ISICG Léo Lacoste, Olivier Dupont, Antoine Courtens, Quentin Fabriès
 L'objectif de ce projet était de comprendre comment pouvait fonctionner une IA par renforcement et spécifiquement dans un environnement de jeu .
 Tous les fichiers sont indépendants et les différents essais d'implémentation le sont donc également !
 
